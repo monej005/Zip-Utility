@@ -1,0 +1,4 @@
+﻿<Directories>
+    <Directory Source="C:\..." Destination="F:\..."/>
+    <Directory Source="C:\..." Destination="D:\..."/>
+</Directories>
